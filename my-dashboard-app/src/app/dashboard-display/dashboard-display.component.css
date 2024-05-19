@@ -1,0 +1,15 @@
+.dashboard-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-container {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  

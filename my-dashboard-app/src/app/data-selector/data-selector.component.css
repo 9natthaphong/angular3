@@ -1,0 +1,20 @@
+.data-selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: rgb(24, 182, 245);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #260eac;
+  }
+  
